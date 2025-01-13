@@ -21,12 +21,12 @@ The project followed a systematic approach, divided into three main phases: **Da
 
 This phase focused on data preparation and understanding to ensure accuracy and relevance for visualization.
 
-**Collect Data**: Used the **Sample-Superstore** dataset.
-**Connect Data**: Verified relationships between tables and ensured proper data connectivity.
-**Build Data Model**: Organized the data into a structured format.
-**Check Data Quality**: Reviewed the dataset for inconsistencies, missing values, and errors.
-**Check Data Types**: Ensured fields were correctly assigned as numeric, text, or date for seamless analysis.
-**Understand and Explore Data**: Performed an exploratory analysis to uncover patterns, trends, and potential insights.
++ **Collect Data**: Used the **Sample-Superstore** dataset.
++ **Connect Data**: Verified relationships between tables and ensured proper data connectivity.
++ **Build Data Model**: Organized the data into a structured format.
++ **Check Data Quality**: Reviewed the dataset for inconsistencies, missing values, and errors.
++ **Check Data Types**: Ensured fields were correctly assigned as numeric, text, or date for seamless analysis.
++ **Understand and Explore Data**: Performed an exploratory analysis to uncover patterns, trends, and potential insights.
 
 ## 2. Building Charts
 The visualizations were designed to meet the analysis objectives using a clear, iterative process:
